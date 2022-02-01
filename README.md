@@ -1,2 +1,2 @@
 # git101
-"This is README"
+repository for git command learning
